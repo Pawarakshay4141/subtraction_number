@@ -1,6 +1,7 @@
 # subtraction_number
 
-#include<stdio.h> int main() { int a,b,c; 
+#include<stdio.h> 
+int main() { int a,b,c; 
 
 printf("\n Enter the first number::"); //--------message for the user::
 scanf("%d",&a);                        //--------store the value::
